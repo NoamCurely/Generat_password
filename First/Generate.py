@@ -2,8 +2,6 @@ import string
 import random
 
 def Generate():
-    data = input("Enter your name: ")
-    print(data)
 
     letters = string.ascii_lowercase
     uppercase = string.ascii_uppercase
